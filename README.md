@@ -5,6 +5,7 @@ This project develops and evaluates a machine learning framework for detecting e
 
 ## Dataset
 - Source: Kaggle – Mental Health Twitter Dataset
+- Dataset link: https://www.kaggle.com/datasets/infamouscoder/mental-health-social-media
 - Records: 20,000 labelled English tweets
 - Classes: Depressive and Non-Depressive
 
